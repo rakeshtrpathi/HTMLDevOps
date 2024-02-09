@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  vmImage: ubuntu-latest
+  vmImage: rakeshselfagent
 
 steps:
 - task: ArchiveFiles@2
